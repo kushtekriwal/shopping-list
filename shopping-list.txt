@@ -11,6 +11,7 @@ Porridge
 
 Rice
 Noodles
+Sushi
 
 ## Dinner
 
