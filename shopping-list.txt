@@ -17,3 +17,7 @@ Noodles
 Pizza
 Pasta
 Ice-cream
+
+## Laundry
+
+Washing powder
