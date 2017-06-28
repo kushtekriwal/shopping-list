@@ -11,7 +11,11 @@ Porridge
 
 Rice
 Noodles
+<<<<<<< HEAD
 Sushi
+=======
+KFC
+>>>>>>> fa250f5a8a3ee8c009497258ca7d329aa098a6ea
 
 ## Dinner
 
